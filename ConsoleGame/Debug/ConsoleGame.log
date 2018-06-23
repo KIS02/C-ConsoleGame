@@ -1,0 +1,7 @@
+﻿  System.cpp
+c:\users\rladl\desktop\c\consolegame\consolegame\system.cpp(192): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\rladl\desktop\c\consolegame\consolegame\system.cpp(198): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\rladl\desktop\c\consolegame\consolegame\system.cpp(204): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+c:\users\rladl\desktop\c\consolegame\consolegame\system.cpp(209): warning C4838: conversion from 'int' to 'SHORT' requires a narrowing conversion
+  ConsoleGame.vcxproj -> C:\Users\rladl\Desktop\C\ConsoleGame\Debug\ConsoleGame.exe
+  ConsoleGame.vcxproj -> C:\Users\rladl\Desktop\C\ConsoleGame\Debug\ConsoleGame.pdb (Full PDB)
